@@ -10,7 +10,7 @@ https://reactjs.org/tutorial/tutorial.html
 * Add a toggle button that lets you sort the moves in either ascending or descending order.
 * When someone wins, highlight the three squares that caused the win."
 
-#Install
+# Install
 To install create a react app: go in 
 
 https://reactjs.org/docs/installation.html

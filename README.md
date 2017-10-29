@@ -17,8 +17,10 @@ https://reactjs.org/docs/installation.html
 
 "Creating a New Application" section.
 
-`npm install -g create-react-app`
-`create-react-app improve-tictactoe-tutorial`
+```
+npm install -g create-react-app
+create-react-app improve-tictactoe-tutorial
+```
 
 After install replace the public and src folders of the App with the same folder here on GitHub.
 
